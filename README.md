@@ -10,7 +10,7 @@
 
 ---
 
-### Задани 3
+### Задание 3
 
 ![112](https://github.com/Oigen181/SQL2-Andreev-Evgeny/assets/126493876/7c8eba2e-d9dc-4d4f-b696-f1f114534097)
 
