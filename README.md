@@ -1,6 +1,6 @@
 ### Задание 1
 
-![113](https://github.com/Oigen181/SQL2-Andreev-Evgeny/assets/126493876/f64e1edd-6445-449d-aee5-910c9dd8499f)
+![114](https://github.com/Oigen181/SQL2-Andreev-Evgeny/assets/126493876/2deb75ce-6d5e-4459-aa3c-1df883cb407f)
 
 ---
 
@@ -12,6 +12,6 @@
 
 ### Задание 3
 
-![112](https://github.com/Oigen181/SQL2-Andreev-Evgeny/assets/126493876/7c8eba2e-d9dc-4d4f-b696-f1f114534097)
+![115](https://github.com/Oigen181/SQL2-Andreev-Evgeny/assets/126493876/be6b8fd0-67c8-424c-b5ea-7ff475b5ff2f)
 
 ---
